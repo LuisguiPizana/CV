@@ -1,5 +1,5 @@
 # CV
-Computer Vision Projects
+Computer Vision Projects. Work in progress.
 
 - MNIST Sign Language Classification.
     Sign letter language classification. 
